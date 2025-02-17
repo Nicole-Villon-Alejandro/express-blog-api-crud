@@ -15,5 +15,8 @@
     "url": "https://github.com/Nicole-Villon-Alejandro/express-blog-api-crud/issues"
   },
   "homepage": "https://github.com/Nicole-Villon-Alejandro/express-blog-api-crud#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
